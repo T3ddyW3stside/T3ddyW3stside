@@ -8,7 +8,7 @@ This web application allows users to check the spelling of their text and get su
 2. Clone this repository to your local computer:
 
     ```bash
-    git clone https://github.com/yourusername/spell-checker-app.git
+    git clone https://github.com/T3ddyW3stside/spell-checker-app.git
     ```
 
 3. Navigate to the project directory:
